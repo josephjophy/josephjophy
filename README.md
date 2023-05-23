@@ -1,8 +1,7 @@
 ### Hi there, I'm Joseph Jophy. 👋
 
-<div align = "center" >
- <img src="![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephjophy&theme=dark&show_icons=true)"/> 
-<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephjophy&layout=compact&theme=vision-friendly-dark)](https://github.com/josephjophy/github-readme-stats)
+
 
 <!--
 **josephjophy/josephjophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
