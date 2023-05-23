@@ -1,7 +1,7 @@
 ### Hi there, I'm Joseph Jophy. 👋
 
 <div align = "center" >
-<!--   <img src="![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephjophy&theme=dark&show_icons=true)"/> -->
+ <img src="![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephjophy&theme=dark&show_icons=true)"/> 
 <div>
 
 <!--
