@@ -1,8 +1,6 @@
 ### Hi there, I'm Joseph Jophy. 👋
 
 
-<h3 align="center">Stats:</h3>
-
 
 
 <!--
