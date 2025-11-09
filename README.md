@@ -2,7 +2,6 @@
 
 
 <h3 align="center">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephjophy&show_icons=true&theme=ayu-mirage&hide_border=true&locale=en&layout=compact" alt="josephjophy" /></p>
 
 
 
